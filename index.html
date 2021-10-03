@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/9c6de94420.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="card">
+        <div class="search">
+            <input type="text" class="search-bar" placeholder="Search">
+            <button>
+                <i class="fas fa-search"></i>
+            </button>
+        </div>
+        <div class="weather loading">
+            <h2 class="city">Weather In Accra</h2>
+            <h1 class="temp">51°C</h1>
+            <div class="flex">
+            <img src="https://openweathermap.org/img/wn/02n.png" alt="" class="icon">
+            <div class="description">Partly Cloudy</div>
+            </div>
+            <div class="humidity">Humidity: 40%</div>
+            <div class="wind">Wind Speed: 45 km/h</div>
+        </div>
+    </div>
+
+    <script src="app.js" defer></script>
+</body>
+</html>
