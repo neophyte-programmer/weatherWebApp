@@ -27,7 +27,7 @@ also essential in helping me practice previously learnt concepts.
     <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" />
 </a>&nbsp;&nbsp;
 
-## Hosted Using
+### Hosted Using
 <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a> <br>
