@@ -32,7 +32,7 @@ also essential in helping me practice previously learnt concepts.
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a> <br>
 
-Live Site URL: [LiveSite](https://silly-mahavira-fdf45d.netlify.app/)
+Live Site URL: [Live Site](https://nutifafasweatherapp.netlify.app/)
 
 ## More Resources 
 - Pictures: [Unsplash](https://source.unsplash.com/)
